@@ -1,0 +1,30 @@
+.presentationHobbies1 {
+	display: flex;
+	width: 90%;
+	margin: auto;
+}
+.presentationHobbies2 {
+	display: flex;
+	width: 90%;
+	margin: auto;
+    min-height: 70vh;
+}
+.presentationHobbies3 {
+	display: flex;
+	width: 90%;
+	margin: auto;
+    min-height: 70vh;
+}
+.presentationHobbies4 {
+	display: flex;
+	width: 90%;
+	margin: auto;
+    min-height: 70vh;
+}
+.presentationHobbies5 {
+	display: flex;
+	width: 90%;
+	margin: auto;
+    min-height: 70vh;
+}
+
